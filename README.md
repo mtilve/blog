@@ -4,7 +4,6 @@
 - React Bootstrap - https://react-bootstrap.github.io/getting-started/introduction
 - Axios - https://github.com/axios/axios
 - Formik - https://formik.org/docs/overview
-- Superhero API - https://superheroapi.com/
 - React Icons - https://react-icons.github.io/react-icons/
 - Json Placeholder - https://jsonplaceholder.typicode.com/posts
 
